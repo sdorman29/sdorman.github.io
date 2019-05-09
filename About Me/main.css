@@ -1,0 +1,41 @@
+  
+  /* Center website */
+  .main {
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  h1 {
+    font-size: 50px;
+    word-break: break-all;
+  }
+  
+  body {
+    background-image: url(port/backdrop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+    font-family: Didot;
+    color: white;
+  }
+  
+  /* Center website */
+  .main {
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  h1 {
+    font-size: 50px;
+    word-break: break-all;
+  }
+  
+  .footer{
+      text-align: center;
+      font-size: 14px;
+      color: white;
+  }
+
+  .p{
+    font-family: Avenir;
+  }
